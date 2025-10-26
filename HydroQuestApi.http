@@ -1,0 +1,6 @@
+@HydroQuestApi_HostAddress = http://localhost:5218
+
+GET {{HydroQuestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
