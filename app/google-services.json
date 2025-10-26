@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "776908522631",
+    "project_id": "hydroquest-1e08b",
+    "storage_bucket": "hydroquest-1e08b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776908522631:android:19483e666fc300f27ba422",
+        "android_client_info": {
+          "package_name": "com.hydroquest.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019106820951-11m32fb66tqo3d3aa66s7auag9co9n0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyjiX7tr6Nn8MfPLep81ZtjsrCeenMe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
